@@ -1,7 +1,3 @@
----
-title: Privacy Policy
----
-
 # Privacy Policy for QR Code Scanner
 
 **Date: August 16, 2025**
