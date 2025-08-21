@@ -75,10 +75,6 @@ QR Code Scanner is suitable for all ages. However, parents and guardians are res
 
 We may update QR Code Scanner from time to time to improve functionality or fix issues. We may also modify these Terms of Service as needed. Continued use of the app after changes constitutes acceptance of the updated terms.
 
-## Governing Law
-
-These Terms are governed by the laws of India. Any disputes will be subject to the jurisdiction of Indian courts.
-
 ## App Store Terms
 
 If you downloaded QR Code Scanner from an app store (such as Google Play Store or Apple App Store), you are also subject to that platform's terms and conditions in addition to these Terms.
